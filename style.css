@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: blueviolet;
+    border-radius: 50px;
+    padding: 15px;
+    justify-content: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+b {
+    color: #FF0000;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: palevioletred;
+    padding: 7px;
+}
+
+footer p {
+    background-color: white;
+}
+
+img {
+    background-color: chartreuse;
+    padding: 2px;
+}
+
+main {
+    margin: 20px;
+}
